@@ -1,0 +1,4 @@
+<form>
+  <input type="text" name="name" placeholder="<%= KT.I18n.t("extensions.devkit_example.popover.name_placeholder") %>" maxlength="500" autofocus/>
+  <div><button class="btn btn-danger"><%= KT.I18n.t("common.save") %></button></div>
+</form>
